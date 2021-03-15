@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 6632853072563123399}
   m_Layer: 0
   m_Name: circle6
-  m_TagString: Untagged
+  m_TagString: circle6
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -112,3 +112,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8c6e3f85a0d5471459b9c38e04834411, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  swipeAngle: 0
+  column: 0
+  row: 0
+  targetX: 0
+  targetY: 0
+  isMatched: 0

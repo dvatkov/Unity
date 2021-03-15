@@ -4,7 +4,14 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Face
+  - circle1
+  - circle2
+  - circle3
+  - circle4
+  - circle5
+  - circle6
+  - circle7
+  - circle8
   layers:
   - Default
   - TransparentFX
